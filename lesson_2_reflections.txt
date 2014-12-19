@@ -21,7 +21,7 @@ You can show the relationship between different commits and branches
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-All changes that were on each branch will be combined together and on one branch. To show the relationship between commits and how they are combined. 
+All changes that were on each branch will be combined together and on one branch. To show the relationship between commits and how they are combined. Also shows the ancestor of each commits.  
 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
