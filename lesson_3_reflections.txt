@@ -1,11 +1,27 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
+SO that you can work on those files from anywhere in the world and can also collaborate your work with others. 
+
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+So that only logically changes are pulled and saved on your local drive
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
+Forks are like clones on Github. Copy a project from another person on Github and placed it on your repository. You can then freely change the files without it having affecting the original work. 
+Clones are a copy of a repository that is stored on your local drive. You can make changes to it locally and use Git to track them. You do not need to have Internet access to edit and track them. 	
+Branches are the different versions that you create on your project (repository).
+
 What is the benefit of having a copy of the last known state of the remote stored locally?
+
+So that you have access to the latest updates and can work on the files locally. So even if you do not have Internet access you can continue to work on the files. 
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
+GoogleDocs. Seems that many people knows how to use it and have used it before. Saves are done automatically. Everyone is working on the same version and as a result may cause confusion especially if there are conflicting ideas. 
+
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Branches are great when there are different approaches you want to try out and want to collaborate with others or seek other collaborators opinions. 
+
+Masters are great when you are working on your own and not looking at making drastic changes or trying something new. So if you are making small changes, changing it on masters only will be easier. 
