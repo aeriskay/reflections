@@ -30,4 +30,4 @@ I can create a branch and try out whatever I want without being concern that it 
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-To do collaborative work in setting up a new wordpress theme
+To do collaborative work in setting up a new wordpress theme. I will also want to use Git to help with version controls and work in an organised manner for all my future projects.
